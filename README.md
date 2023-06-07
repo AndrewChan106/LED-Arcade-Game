@@ -1,9 +1,9 @@
 # LED-Arcade-Game
 ## Rules
 -Stop the spinning green LED when it reaches the red LED
--Do this three times and you win!
--Fail once and you lose
--Want an endless mode? Flip the switch and track your score on the serial monitor
+<br> -Do this three times and you win!
+<br> -Fail once and you lose
+<br> -Want an endless mode? Flip the switch and track your score on the serial monitor
 ## Inputs-Outputs
 ### Inputs
 Left LED - Stop the green light
