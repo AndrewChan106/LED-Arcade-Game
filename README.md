@@ -7,8 +7,8 @@
 ## Inputs-Outputs
 ### Inputs
 Left LED - Stop the green light
-Right LED - Restart the game
-Switch - Switch between normal and endless mode
+<br> Right LED - Restart the game
+<br> Switch - Switch between normal and endless mode
 ### Outputs
 LED light - Green for won, red for loss
-Sound - Plays a tune for winning and another for losing
+<br> Sound - Plays a tune for winning and another for losing
